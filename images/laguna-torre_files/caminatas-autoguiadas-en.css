@@ -1,0 +1,196 @@
+/* Hero */
+#mirador-del-torre-hero { background: url(https://s3.amazonaws.com/imgs2000-en/mirador-del-torre.jpg) center top no-repeat; background-size: cover !important; height: 600px; }
+#laguna-de-los-tres { background: url(https://s3.amazonaws.com/imgs2000-en/laguna-de-los-tres.jpg) center top no-repeat; background-size: cover !important; height: 600px; }
+#laguna-torre { background: url(https://s3.amazonaws.com/imgs2000-en/laguna-torre.jpg) center top no-repeat; background-size: cover !important; height: 600px; }
+#laguna-capri-hero { background: url(https://s3.amazonaws.com/imgs2000-en/laguna-capri-hero.jpg) center top no-repeat; background-size: cover !important; height: 600px; }
+#loma-del-pliegue-tumbado { background: url(https://s3.amazonaws.com/imgs2000-en/loma-del-pliegue-tumbado.jpg) center top no-repeat; background-size: cover !important; height: 600px; }
+
+.mapa-caminata-laguna-torre, .mapa-caminata-laguna-de-los-tres, .mapa-caminata-loma-pliegue-tumbado, .mapa-caminata-laguna-capri, .mapa-caminata-mirador-del-torre, .mapa-caminata-mirador-margarita {height: 600px !important}
+
+
+/* Fotos ilustrativas */
+#img_valle-rio-de-las-vueltas {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/valle-rio-de-las-vueltas.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_mirador-del-fitz-roy {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/mirador-del-fitz-roy.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_subida-laguna-de-los-tres {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/subida-laguna-de-los-tres.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_laguna-de-los-tres {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-de-los-tres.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_laguna-de-los-tres-amanecer {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-de-los-tres-amanecer.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_laguna-torre-amanecer {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-torre-amanecer.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_laguna-torre-tempanos {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-torre-tempanos.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_laguna-torre {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-torre.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_arroyo-del-salto {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/arroyo-del-salto.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_laguna-sucia {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-sucia.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+
+#img_mirador-del-torre {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/mirador-del-torre.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_cartel-senda-laguna-torre {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/cartel-laguina-torrea.jpg) center center no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_cartel-senda-laguna-torre2 {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/cartel-laguina-torreb.jpg) center center no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_laguna-capri {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-capri.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_laguna-capri2 {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-caprib.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_pliegue-tumbado1 {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/pliegue-tumbadoa.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_pliegue-tumbado2 {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/pliegue-tumbadob.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_pliegue-tumbado3 {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/pliegue-tumbadoc.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_pliegue-tumbado4 {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/pliegue-tumbadod.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;} 
+#img_cerro-solo {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/cerro-solo.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+#img_mirador-maestri {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/mirador-maestri.jpg) center top no-repeat; background-size: cover !important; display: block; height: 360px !important;}
+
+/* Estilos específicos */
+#jumbotron_generico.caminatas-autoguiadas {padding-bottom: 2em !important; } 
+.caminatas-caracteristicas { background: #7f8c8d; padding:1em 1.5em 1em 1.5em; margin-bottom: 2em !important; border-radius: 6px; display: block }
+.caminatas-autoguiadas h4 {font-size: 1.2em; font-weight: 300 !important; text-align: center !important; color:#fff;}
+.caminatas-autoguiadas i {padding-right: 0.4em; color: #f1c40f; font-size: 1.4em !important; position: relative !important;	top:0.1em !important;}
+
+
+/* Mapas */
+#mapa-laguna-de-los-tres { background: url("https://s3.amazonaws.com/imgs1000-en/mapa-caminata-laguna-de-los-tres.jpg") center bottom no-repeat !important; background-size: cover !important; height: 550px !important; display: block; box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.1);}
+#mapa-laguna-torre { background: url("https://s3.amazonaws.com/imgs1000-en/mapa-caminata-laguna-torre.jpg") center bottom no-repeat !important; background-size: cover !important; height: 550px !important; display: block; box-shadow: 0px 0px 15px 6px rgba(0,0,0,0.1);}
+#mapa-laguna-capri { background: url("https://s3.amazonaws.com/imgs1000-en/mapa-caminata-laguna-capri.jpg") center bottom no-repeat !important; background-size: cover !important; height: 550px !important; display: block; box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.1);}
+#mapa-pliegue-tumbado { background: url("https://s3.amazonaws.com/imgs1000-en/mapa-caminata-loma-del-pliegue-tumbado.jpg") center bottom no-repeat !important; background-size: cover !important; height: 550px !important; display: block; box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.1);}
+#mapa-caminatas-los-huemules { background: url("https://s3.amazonaws.com/imgs1000-en/mapa-caminatas-los-huemules.jpg") center bottom no-repeat !important; background-size: cover !important; height: 550px !important; display: block; box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.1);}
+
+
+/* Breakpoints */
+@media (max-width: 1600px) { }
+@media (max-width: 1366px) { 
+ {height: 460px !important; } 
+#mirador-del-torre-hero, #laguna-de-los-tres, #laguna-torre, #laguna-capri-hero, #loma-del-pliegue-tumbado {height: 440px !important; } 
+#mapa-laguna-de-los-tres, #mapa-laguna-torre, #mapa-laguna-capri, #mapa-pliegue-tumbado, #mapa-caminatas-los-huemules { height: 540px !important; }
+}
+@media (max-width: 1200px) { }
+@media (max-width: 1112px) { 
+#jumbotron_generico.caminatas-autoguiadas {padding-bottom: 2em !important; }  
+.caminatas-caracteristicas { padding:1em 1.5em 1em 1.5em; margin-bottom: 1.5em !important; }
+.caminatas-autoguiadas h4 {font-size: 1.1em !important; }
+.caminatas-autoguiadas i {font-size: 1.3em !important; }
+#img_valle-rio-de-las-vueltas, #img_mirador-del-fitz-roy, #img_subida-laguna-de-los-tres, #img_laguna-de-los-tres, #img_laguna-de-los-tres-amanecer, 
+#img_arroyo-del-salto, #img_laguna-sucia, #img_mirador-del-torre, #img_laguna-capri, #img_laguna-capri2, #img_pliegue-tumbado1, #img_pliegue-tumbado2, #img_pliegue-tumbado3, #img_pliegue-tumbado4, #img_cartel-senda-laguna-torre, #img_cartel-senda-laguna-torre2, #img_cerro-solo, #img_laguna-torre-amanecer, #img_laguna-torre-tempanos, #img_laguna-torre, #img_mirador-maestri { height: 310px !important;}
+#mapa-laguna-de-los-tres, #mapa-laguna-torre, #mapa-laguna-capri, #mapa-pliegue-tumbado, #mapa-caminatas-los-huemules { height: 465px !important; }
+}
+@media (max-width: 1024px) { 
+#mirador-del-torre-hero { background: url(https://s3.amazonaws.com/imgs1000-en/mirador-del-torre.jpg) center top no-repeat; height: 360px !important; background-size: cover !important; }
+#laguna-de-los-tres { background: url(https://s3.amazonaws.com/imgs1000-en/laguna-de-los-tres.jpg) center top no-repeat !important; height: 360px !important; background-size: cover !important; }
+#laguna-torre { background: url(https://s3.amazonaws.com/imgs1000-en/laguna-torre.jpg) center top no-repeat !important; height: 360px !important; background-size: cover !important; }
+#laguna-capri-hero { background: url(https://s3.amazonaws.com/imgs1000-en/laguna-capri-hero.jpg) center top no-repeat !important; height: 360px !important; background-size: cover !important; }
+#loma-del-pliegue-tumbado { background: url(https://s3.amazonaws.com/imgs1000-en/loma-del-pliegue-tumbado.jpg) center top no-repeat !important; height: 360px !important; background-size: cover !important; }
+#mapa-laguna-de-los-tres, #mapa-laguna-torre, #mapa-laguna-capri, #mapa-pliegue-tumbado, #mapa-caminatas-los-huemules { height: 470px !important; }
+}
+
+@media (max-width: 992px) {
+#img_valle-rio-de-las-vueltas, #img_mirador-del-fitz-roy, #img_subida-laguna-de-los-tres, #img_laguna-de-los-tres, #img_laguna-de-los-tres-amanecer, #img_arroyo-del-salto, #img_laguna-sucia, #img_mirador-del-torre, #img_laguna-capri, #img_laguna-capri2, #img_pliegue-tumbado1, #img_pliegue-tumbado2, #img_pliegue-tumbado3, #img_pliegue-tumbado4, #img_cartel-senda-laguna-torre, #img_cartel-senda-laguna-torre2, #img_cerro-solo, #img_laguna-torre-amanecer, #img_laguna-torre-tempanos, #img_laguna-torre, #img_mirador-maestri { height: 350px !important;}
+#mapa-laguna-de-los-tres, #mapa-laguna-torre, #mapa-laguna-capri, #mapa-pliegue-tumbado, #mapa-caminatas-los-huemules { height: 420px !important; }
+}
+@media (max-width: 981px) { 
+.caminatas-caracteristicas { padding:1em 1.2em 1em 1.2em; margin-bottom: 1.2em !important; }
+.caminatas-autoguiadas h4 {font-size: 1.0em !important; }
+#mapa-laguna-de-los-tres, #mapa-laguna-torre, #mapa-laguna-capri, #mapa-pliegue-tumbado, #mapa-caminatas-los-huemules { height: 348px !important; }
+}
+@media (max-width: 960px) { 
+.caminatas-autoguiadas h4 {font-size: 1.1em !important; } 
+#img_valle-rio-de-las-vueltas {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/valle-rio-de-las-vueltas2.jpg) center top no-repeat !important; background-size: cover !important; display: block; height: 230px !important;}
+#img_mirador-del-fitz-roy {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/mirador-del-fitz-roy2.jpg) center top no-repeat !important; background-size: cover !important; display: block; height: 250px !important;}
+#img_subida-laguna-de-los-tres {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/subida-laguna-de-los-tres2.jpg) center top no-repeat !important; background-size: cover !important; display: block; height: 230px !important;}
+#img_laguna-de-los-tres {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-de-los-tres2.jpg) center top no-repeat !important; background-size: cover !important; display: block; height: 230px !important;}
+#img_laguna-de-los-tres-amanecer {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-de-los-tres-amanecer2.jpg) center top no-repeat !important; background-size: cover !important; display: block; height: 230px !important;}
+#img_arroyo-del-salto {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/arroyo-del-salto2.jpg) center top no-repeat !important; background-size: cover !important; display: block; height: 230px !important;}
+#img_laguna-sucia {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-sucia2.jpg) center top no-repeat !important; background-size: cover !important; display: block; height: 230px !important;}
+#img_mirador-del-torre {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/mirador-del-torre2.jpg) center top no-repeat !important; background-size: cover !important; display: block; height: 230px !important;}
+#img_laguna-capri {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-capri2.jpg) center top no-repeat !important; background-size: cover !important; display: block; height: 230px !important;}
+#img_laguna-capri2 {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-caprib2.jpg) center top no-repeat !important; background-size: cover !important; display: block; height: 230px !important;}
+#img_pliegue-tumbado1 {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/pliegue-tumbadoa2.jpg) center top no-repeat; background-size: cover !important; display: block; height: 230px !important;}
+#img_pliegue-tumbado2 {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/pliegue-tumbadob2.jpg) center top no-repeat; background-size: cover !important; display: block; height: 230px !important;}
+#img_pliegue-tumbado3 {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/pliegue-tumbadoc2.jpg) center top no-repeat; background-size: cover !important; display: block; height: 230px !important;}
+#img_pliegue-tumbado4 {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/pliegue-tumbadod2.jpg) center top no-repeat; background-size: cover !important; display: block; height: 230px !important;}
+#img_cerro-solo {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/cerro-solo2.jpg) center top no-repeat; background-size: cover !important; display: block; height: 230px !important;}
+#img_laguna-torre-amanecer {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-torre-amanecer2.jpg) center top no-repeat; background-size: cover !important; display: block; height: 230px !important;}
+#img_laguna-torre-tempanos {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-torre-tempanos2.jpg) center top no-repeat; background-size: cover !important; display: block; height: 230px !important;}
+#img_laguna-torre {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/laguna-torre2.jpg) center top no-repeat; background-size: cover !important; display: block; height: 230px !important;}
+#img_mirador-maestri {background: url(https://s3.amazonaws.com/elchalten-imgs-ilustrativas-en/mirador-maestri2.jpg) center top no-repeat; background-size: cover !important; display: block; height: 230px !important;}
+#mapa-laguna-de-los-tres, #mapa-laguna-torre, #mapa-laguna-capri, #mapa-pliegue-tumbado, #mapa-caminatas-los-huemules { height: 349px !important; }
+.mapa-caminata-laguna-torre, .mapa-caminata-laguna-de-los-tres, .mapa-caminata-loma-pliegue-tumbado, .mapa-caminata-laguna-capri, .mapa-caminata-mirador-del-torre, .mapa-caminata-mirador-margarita {height: 460px !important}
+
+}
+
+@media (max-width: 834px) { 
+.caminatas-autoguiadas h5 {font-size: 1.2em; font-weight: 400; }
+#mapa-laguna-de-los-tres, #mapa-laguna-torre, #mapa-laguna-capri, #mapa-pliegue-tumbado, #mapa-caminatas-los-huemules { height: 348px !important; }
+.mapa-caminata-laguna-torre, .mapa-caminata-laguna-de-los-tres, .mapa-caminata-loma-pliegue-tumbado, .mapa-caminata-laguna-capri, .mapa-caminata-mirador-del-torre, .mapa-caminata-mirador-margarita {height: 340px !important}
+
+}
+@media (max-width: 800px) {
+.caminatas-autoguiadas h4 {font-size: 1.1em; font-weight: 400; }
+.caminatas-autoguiadas h5 {font-size: 1.1em; font-weight: 400; } 
+#mapa-laguna-de-los-tres, #mapa-laguna-torre, #mapa-laguna-capri, #mapa-pliegue-tumbado, #mapa-caminatas-los-huemules { height: 337px !important; }
+.mapa-caminata-laguna-torre, .mapa-caminata-laguna-de-los-tres, .mapa-caminata-loma-pliegue-tumbado, .mapa-caminata-laguna-capri, .mapa-caminata-mirador-del-torre, .mapa-caminata-mirador-margarita {height: 450px !important}
+
+}
+@media (max-width: 782px) { }
+@media (max-width: 768px) { 
+#mirador-del-torre-hero, #laguna-de-los-tres, #laguna-torre, #laguna-capri-hero, #loma-del-pliegue-tumbado, #laguna-azul, #laguna-diablo-puesto-cagliero { height: 300px !important; } 
+.caminatas-caracteristicas { padding:1em 1.5em 1em 1.5em; margin-bottom: 1.5em !important; }
+.caminatas-autoguiadas h4 {font-size: 1em !important; }
+.caminatas-autoguiadas i {font-size: 1.3em !important; }
+#mapa-laguna-de-los-tres, #mapa-laguna-torre, #mapa-laguna-capri, #mapa-pliegue-tumbado, #mapa-caminatas-los-huemules { height: 380px; }
+}
+@media (max-width: 736px) { 
+#mirador-del-torre-hero, #laguna-de-los-tres, #laguna-torre, #loma-del-pliegue-tumbado, #laguna-azul, #laguna-diablo-puesto-cagliero { height: 280px !important; }
+#img_valle-rio-de-las-vueltas, #img_mirador-del-fitz-roy, #img_subida-laguna-de-los-tres, #img_laguna-de-los-tres, #img_laguna-de-los-tres-amanecer, #img_arroyo-del-salto, #img_laguna-sucia, #img_mirador-del-torre, #img_laguna-capri, #img_laguna-capri2, #img_pliegue-tumbado1, #img_pliegue-tumbado2, #img_pliegue-tumbado3, #img_pliegue-tumbado4, #img_cartel-senda-laguna-torre, #img_cartel-senda-laguna-torre2, #img_cerro-solo, #img_laguna-torre-amanecer, #img_laguna-torre-tempanos, #img_laguna-torre, #img_mirador-maestri { height: 260px !important;}
+#mapa-laguna-de-los-tres, #mapa-laguna-torre, #mapa-laguna-capri, #mapa-pliegue-tumbado, #mapa-caminatas-los-huemules { height: 255px !important; }
+.mapa-caminata-laguna-torre {height: 320px !important}
+
+}
+@media (max-width: 694px) { 
+#img_valle-rio-de-las-vueltas, #img_mirador-del-fitz-roy, #img_subida-laguna-de-los-tres, #img_laguna-de-los-tres, #img_laguna-de-los-tres-amanecer, #img_arroyo-del-salto, #img_laguna-sucia, #img_mirador-del-torre, #img_laguna-capri, #img_laguna-capri2, #img_pliegue-tumbado1, #img_pliegue-tumbado2, #img_pliegue-tumbado3, #img_pliegue-tumbado4, #img_cartel-senda-laguna-torre, #img_cartel-senda-laguna-torre2, #img_cerro-solo, #img_laguna-torre-amanecer, #img_laguna-torre-tempanos, #img_laguna-torre, #img_mirador-maestri { height: 270px !important;}
+}
+@media (max-width: 678px) { 
+.caminatas-autoguiadas h4 {font-size: 1.1em; font-weight: 400; } 
+#jumbotron_generico.caminatas-autoguiadas {padding-bottom: 2em !important; } 
+}
+@media (max-width: 667px) { }
+@media (max-width: 639px) { }
+@media (max-width: 600px) { }
+@media (max-width: 568px) { 
+#mirador-del-torre-hero { background: url(https://s3.amazonaws.com/imgs500-en/mirador-del-torre.jpg) center top no-repeat; height: 200px !important; background-size: cover; }
+#laguna-de-los-tres { background: url(https://s3.amazonaws.com/imgs500-en/laguna-de-los-tres.jpg) center top no-repeat; height: 200px !important; background-size: cover; }
+#laguna-torre { background: url(https://s3.amazonaws.com/imgs500-en/laguna-torre.jpg) center top no-repeat; height: 200px !important; background-size: cover; }
+#laguna-capri-hero { background: url(https://s3.amazonaws.com/imgs500-en/laguna-capri-hero.jpg) center top no-repeat; height: 200px !important; background-size: cover; }
+#loma-del-pliegue-tumbado { background: url(https://s3.amazonaws.com/imgs500-en/loma-del-pliegue-tumbado.jpg) center top no-repeat; height: 200px !important; background-size: cover; }
+.mapa-caminata-laguna-torre, .mapa-caminata-laguna-de-los-tres, .mapa-caminata-loma-pliegue-tumbado, .mapa-caminata-laguna-capri, .mapa-caminata-mirador-del-torre, .mapa-caminata-mirador-margarita {height: 280px !important}
+
+}
+@media (max-width: 551px) { 
+#img_valle-rio-de-las-vueltas, #img_mirador-del-fitz-roy, #img_subida-laguna-de-los-tres, #img_laguna-de-los-tres, #img_laguna-de-los-tres-amanecer, #img_arroyo-del-salto, #img_laguna-sucia, #img_mirador-del-torre, #img_laguna-capri, #img_laguna-capri2, #img_pliegue-tumbado1, #img_pliegue-tumbado2, #img_pliegue-tumbado3, #img_pliegue-tumbado4, #img_cartel-senda-laguna-torre, #img_cartel-senda-laguna-torre2, #img_cerro-solo, #img_laguna-torre-amanecer, #img_laguna-torre-tempanos, #img_laguna-torre, #img_mirador-maestri { height: 240px !important;}
+}
+@media (max-width: 540px) { }
+@media (max-width: 507px) { 
+#mirador-del-torre-hero, #laguna-de-los-tres, #laguna-torre, #loma-del-pliegue-tumbado, #laguna-azul, #laguna-diablo-puesto-cagliero { height: 250px !important; } 
+.caminatas-caracteristicas { padding:0.2em 1em 0.2em 1em; margin-bottom: 0 !important; background: none; }
+.caminatas-autoguiadas h4 {font-size: 1.3em !important; text-align: left !important; color: #888; font-weight: 400 !important; line-height: 1.5em !important}
+.caminatas-autoguiadas i {font-size: 1.3em !important; top:0.05em !important; color: green}
+.mapa-caminata-laguna-torre, .mapa-caminata-laguna-de-los-tres, .mapa-caminata-loma-pliegue-tumbado, .mapa-caminata-laguna-capri, .mapa-caminata-mirador-del-torre, .mapa-caminata-mirador-margarita {height: 400px !important}
+
+}
+@media (max-width: 470px) { }
+@media (max-width: 438px) { }
+@media (max-width: 414px) { 
+#laguna-de-los-tres, #laguna-torre, #laguna-capri-hero, #loma-del-pliegue-tumbado, #laguna-azul, #laguna-diablo-puesto-cagliero { height: 230px !important; } 
+#mirador-del-torre-hero { height: 230px !important; background-position-x: 75% !important;} 
+#img_valle-rio-de-las-vueltas, #img_mirador-del-fitz-roy, #img_subida-laguna-de-los-tres, #img_laguna-de-los-tres, #img_laguna-de-los-tres-amanecer, #img_arroyo-del-salto, #img_laguna-sucia, #img_mirador-del-torre, #img_laguna-capri, #img_laguna-capri2, #img_pliegue-tumbado1, #img_pliegue-tumbado2, #img_pliegue-tumbado3, #img_pliegue-tumbado4, #img_cartel-senda-laguna-torre, #img_cartel-senda-laguna-torre2, #img_cerro-solo, #img_laguna-torre-amanecer, #img_laguna-torre-tempanos, #img_laguna-torre, #img_mirador-maestri { height: 185px !important;}
+.caminatas-caracteristicas {padding:0.3em; margin-bottom: 0 !important; margin-top: 0 !important;border-radius: 0; }
+.caminatas-autoguiadas h4 {font-size: 1.2em !important; text-align: left !important; }
+.caminatas-autoguiadas i {font-size: 1.2em !important; }
+}
+
+@media (max-width: 375px) { 
+#laguna-de-los-tres, #laguna-torre, #laguna-capri-hero, #loma-del-pliegue-tumbado, #laguna-azul, #laguna-diablo-puesto-cagliero { height: 220px !important; } 
+#mirador-del-torre-hero { height: 220px !important; background-position-x: 75% !important;} 
+#img_valle-rio-de-las-vueltas, #img_mirador-del-fitz-roy, #img_subida-laguna-de-los-tres, #img_laguna-de-los-tres, #img_laguna-de-los-tres-amanecer, #img_arroyo-del-salto, #img_laguna-sucia, #img_mirador-del-torre, #img_laguna-capri, #img_laguna-capri2, #img_pliegue-tumbado1, #img_pliegue-tumbado2, #img_pliegue-tumbado3, #img_pliegue-tumbado4, #img_cartel-senda-laguna-torre, #img_cartel-senda-laguna-torre2, #img_cerro-solo, #img_laguna-torre-amanecer, #img_laguna-torre-tempanos, #img_laguna-torre, #img_mirador-maestri { height: 170px !important;}
+.mapa-caminata-laguna-torre, .mapa-caminata-laguna-de-los-tres, .mapa-caminata-loma-pliegue-tumbado, .mapa-caminata-laguna-capri, .mapa-caminata-mirador-del-torre, .mapa-caminata-mirador-margarita {height: 350px !important}
+
+}
+
+@media (max-width: 320px) { 
+#laguna-de-los-tres, #laguna-torre, #laguna-capri-hero, #loma-del-pliegue-tumbado, #laguna-azul, #laguna-diablo-puesto-cagliero { height: 200px !important; } 
+#mirador-del-torre-hero { height: 200px !important; background-position-x: 75% !important; }
+#img_valle-rio-de-las-vueltas, #img_mirador-del-fitz-roy, #img_subida-laguna-de-los-tres, #img_laguna-de-los-tres, #img_laguna-de-los-tres-amanecer, #img_arroyo-del-salto, #img_laguna-sucia, #img_mirador-del-torre, #img_laguna-capri, #img_laguna-capri2, #img_pliegue-tumbado1, #img_pliegue-tumbado2, #img_pliegue-tumbado3, #img_pliegue-tumbado4, #img_cartel-senda-laguna-torre, #img_cartel-senda-laguna-torre2, #img_cerro-solo, #img_laguna-torre-amanecer, #img_laguna-torre-tempanos, #img_laguna-torre, #img_mirador-maestri { height: 150px !important;}
+.caminatas-autoguiadas h4 {font-size: 1.1em !important; }
+.caminatas-autoguiadas i {font-size: 1em !important;}
+.mapa-caminata-laguna-torre, .mapa-caminata-laguna-de-los-tres, .mapa-caminata-loma-pliegue-tumbado, .mapa-caminata-laguna-capri, .mapa-caminata-mirador-del-torre, .mapa-caminata-mirador-margarita {height: 300px !important}
+}

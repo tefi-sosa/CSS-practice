@@ -1,0 +1,136 @@
+body{
+    font-family: 'Cormorant SC', serif;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5 {  
+    font-family: 'Cormorant SC', serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color: azure;
+}
+
+
+p {
+  color: #8f8f8f;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* Sections */
+
+.color-section {
+  background-color: #22333B;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #C6EBBE;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+
+    font-size: 2.5rem;
+    font-weight: 300;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+
+.navbar-collapse ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.navbar-collapse ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: #C6EBBE;
+    position: absolute;
+    left: 0;
+    bottom: -10;
+    transition: 0.5s;
+}
+.navbar-collapse ul li:hover::after{
+    width: 100%;
+}
+
+/* Title Section*/
+
+#title .container-fluid {
+    padding: 3% 15% 4%;
+}
+
+.small-heading {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+/* Carousel */
+
+.carousel-image {
+    max-width: 100%;  
+    height: auto;  
+}
+.carousel-text {
+    position: absolute;
+    width: 75%;
+    z-index: 9;
+    padding: 20%, 50%;
+}
+
+/* Activities */
+
+#activities {
+    position: relative;
+    z-index: 1;
+}
+
+.feature-text {
+    font-size: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 5px;
+}
+
+.feature-box {
+    padding: 5%;
+}
+
+.icon {
+    color: #22333B;
+}
+
+.icon:hover {
+    color: #8f8f8f;
+}
+
+#carousel {
+    background-color: #22333B;
+}
+
+
+/* Footer */
+
+.social-icon {
+    margin: 20px 10px;
+    color: azure;
+}
+.social-icon:hover {
+    color: #8f8f8f;
+}
